@@ -1,4 +1,3 @@
-# fritx-blog
+# My Homepage
 
-Fritx's Blog.
-
+Currently it redirects to <http://fritx.github.io/blog>
