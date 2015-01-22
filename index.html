@@ -7,8 +7,8 @@
 <body>
 <script>
   ;(function (loc, tar) {
-    loc.href = tar + loc.search + loc.hash
-  })(location, 'http://fritx.github.io/blog')
+    loc.replace(tar + loc.search + loc.hash)
+  })(location, 'blog/')
 </script>
 </body>
 </html>
